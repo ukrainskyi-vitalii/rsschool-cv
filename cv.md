@@ -16,6 +16,7 @@
 * AJAX
 * CSS
 * MySQL
+* JS
 
 ### Frameworks and CMS
 * 1C-Bitrix
